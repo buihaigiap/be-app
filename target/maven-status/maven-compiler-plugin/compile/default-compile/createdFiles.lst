@@ -1,0 +1,5 @@
+com\example\sis\controller\PlaceController.class
+com\example\sis\repository\PlaceRepository.class
+com\example\sis\App.class
+com\example\sis\model\Place.class
+com\example\sis\service\PlaceService.class
